@@ -1,4 +1,4 @@
-Do the following  settings in your redhat 7.5
+Task : Do the following  settings in your redhat 7.5
 
 i)  your system must not be able install a software telnet using yum
 ii) your yum url have that telnet package it must not be install
