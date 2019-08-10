@@ -9,6 +9,7 @@ AWS Instance Type: t2.micro
 AMI or Server OS: CentOS 7 (x86_64) - with Updates HVM
 
 Disk Layout: 
-
- 	-- Disk1: 8GB for / (for the root volume)
-  -- Attach 2 more encrypted Volume with disk accidental termination protection policy at least 4GB Size of volume when you lauched your instance .
+```
+     -- Disk1: 8GB for / (for the root volume)
+     -- Attach 2 more encrypted Volume with disk accidental termination protection policy at least 4GB Size of volume when you lauched your instance .
+```
